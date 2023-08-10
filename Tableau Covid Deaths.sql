@@ -1,3 +1,4 @@
+--Tableau Visualization can be found at https://public.tableau.com/app/profile/renee.veleva
 
 --1
 Select SUM(new_cases) as total_cases, SUM(cast(new_deaths as int)) as total_deaths, 
